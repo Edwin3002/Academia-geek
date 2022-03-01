@@ -2,3 +2,16 @@ body{
     background-image: url(https://concepto.de/wp-content/uploads/2018/02/Sistema-solar-e1518703607625.jpg);
     background-size: 100%;
 }
+h1{
+    text-align:  center;
+}
+table{
+    margin: 20px auto;
+}
+.botones{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
