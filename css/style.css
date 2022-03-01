@@ -9,6 +9,9 @@ h1{
 table{
     margin: 20px auto;
 }
+input{
+    text-align: center;
+}
 .botones{
     width: 30%;
     margin: auto;
